@@ -15,5 +15,5 @@ Login using your account : localhost:8080/msad-auth/login <br>
 # Endpoints
 1. To display user info - http://localhost:8080/msad-auth/displayuserinfo <br>
 2. To display all emails as JSON - http://localhost:8080/msad-auth/displayemails <br>
-3. To filter emails based on Mail Subject - http://localhost:8080/msad-auth/displayemails?subject=<subject-name> <br>
+3. To filter emails based on Mail Subject - http://localhost:8080/msad-auth/displayemails?subject=subject_name <br>
 
